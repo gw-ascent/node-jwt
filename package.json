@@ -1,5 +1,5 @@
 {
-  "name": "node-login-server",
+  "name": "node-jwt",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Giwan Lim",
